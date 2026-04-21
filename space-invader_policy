@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta name='viewport' content='width=device-width'>
+    <title>Politique de Confidentialité - SpaceInvader</title>
+    <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 1em; line-height: 1.6; color: #333; } </style>
+</head>
+<body>
+    <h2>Politique de Confidentialité</h2>
+    <p>
+        Cette politique de confidentialité s'applique à l'application <strong>Space Invader</strong> développée par <strong>TTJ</strong>.
+        En utilisant cette application, vous acceptez la collecte et l'utilisation d'informations conformément à cette politique.
+    </p>
+
+    <h3>1. Collecte et utilisation des informations</h3>
+    <p>
+        Pour une meilleure expérience, lors de l'utilisation de notre service, nous pouvons vous demander de nous fournir certaines informations personnelles identifiables. Les informations que nous demandons seront conservées sur votre appareil et ne sont pas collectées par nous de quelque manière que ce soit.
+    </p>
+    <p>
+        L'application utilise des services tiers qui peuvent collecter des informations utilisées pour vous identifier.
+        Lien vers la politique de confidentialité des fournisseurs de services tiers utilisés par l'application :
+    </p>
+    <ul>
+        <li><a href="https://www.google.com/policies/privacy/" target="_blank">Google Play Services</a></li>
+        <li><a href="https://support.google.com/admob/answer/6128543?hl=fr" target="_blank">AdMob</a></li>
+    </ul>
+
+    <h3>2. Journal de données (Log Data)</h3>
+    <p>
+        Nous tenons à vous informer qu'en cas d'erreur dans l'application, nous collectons des données et des informations (via des produits tiers) sur votre téléphone appelées Log Data. Ces données peuvent inclure des informations telles que l'adresse IP de votre appareil, le nom de l'appareil, la version du système d'exploitation, la configuration de l'application lors de l'utilisation de notre service, l'heure et la date de votre utilisation du service, et d'autres statistiques.
+    </p>
+
+    <h3>3. Cookies</h3>
+    <p>
+        Les cookies sont des fichiers contenant une petite quantité de données qui sont couramment utilisés comme identifiants uniques anonymes. L'application n'utilise pas ces « cookies » de manière explicite. Cependant, l'application peut utiliser du code tiers et des bibliothèques qui utilisent des « cookies » pour collecter des informations et améliorer leurs services.
+    </p>
+
+    <h3>4. Sécurité</h3>
+    <p>
+        Nous apprécions la confiance que vous nous accordez en nous fournissant vos informations personnelles. C'est pourquoi nous nous efforçons d'utiliser des moyens commercialement acceptables pour les protéger. Mais n'oubliez pas qu'aucune méthode de transmission sur Internet, ou méthode de stockage électronique, n'est sûre et fiable à 100 %, et nous ne pouvons garantir sa sécurité absolue.
+    </p>
+
+    <h3>5. Vie privée des enfants</h3>
+    <p>
+        Ces services ne s'adressent pas aux personnes de moins de 13 ans. Nous ne collectons pas sciemment d'informations personnelles identifiables auprès d'enfants de moins de 13 ans. Si nous découvrons qu'un enfant de moins de 13 ans nous a fourni des informations personnelles, nous les supprimons immédiatement de nos serveurs.
+    </p>
+
+    <h3>6. Modifications de cette politique de confidentialité</h3>
+    <p>
+        Nous pouvons mettre à jour notre politique de confidentialité de temps à autre. Il vous est donc conseillé de consulter cette page périodiquement pour tout changement.
+    </p>
+
+    <h3>7. Contactez-nous</h3>
+    <p>
+        Si vous avez des questions ou des suggestions concernant notre politique de confidentialité, n'hésitez pas à nous contacter à l'adresse e-mail suivante : [VOTRE_EMAIL_ICI].
+    </p>
+    <p><em>Dernière mise à jour : 21/04/2026</em></p>
+</body>
+</html>
